@@ -82,7 +82,7 @@ while (True):
             print "Quotient: ", div(a, b)
 
 		elif (op == "%"):
-			print "modulus: ", mod(a,b)
+			print "modulus: ", mod(a, b)
 
         elif (op == "**"):
             print "Result of mad exponentiation: ", exp(a, b)
